@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="947" height="915" viewBox="0 0 947 915">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="947" height="915" transform="translate(3279 -18)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Wave_Header" data-name="Wave Header" transform="translate(-3279 18)" clip-path="url(#clip-path)">
+    <path id="Path_45" data-name="Path 45" d="M671.12,357.321c28.546,123.82,208.744,135.2,296.121,227.42,82.549,87.123,85.879,247.009,196.779,292.816,110.45,45.625,232.41-27.362,344.29-69.322,105.38-39.519,214.38-79.743,285.61-166.915,70.55-86.351,88.89-200.253,104.61-310.682C1914.34,219.5,1937.56,100.16,1885.04.945c-51.83-97.928-175.99-123.4-262.78-192.231-100.49-79.691-162.64-214.214-287.34-244.026-132.7-31.722-293.31-12.09-392.627,81.477-98.665,92.949-54.342,258.412-102.651,385.1C795.149,147.953,643.062,235.614,671.12,357.321Z" transform="translate(2626 -18)" fill="#cdcaff" fill-rule="evenodd"/>
+  </g>
+</svg>
